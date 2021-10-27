@@ -553,6 +553,10 @@ header h1{
         margin-right: 30px;
     }
 
+    .product-details .buy .addCart button{
+        width: 200px;
+    }
+
     .product-details .buy .addWish{
         position: relative;
         left: -10px;
