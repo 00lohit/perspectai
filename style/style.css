@@ -327,6 +327,7 @@ header h1{
     display: flex;
     align-items: center;
     margin-bottom: 32px;
+
 }
 
 
@@ -554,7 +555,7 @@ header h1{
     }
 
     .product-details .buy .addCart button{
-        width: 150px;
+        width: 195px;
     }
 
     .product-details .buy .addWish{
